@@ -273,6 +273,7 @@
         </div>
       </section>
 
+
       <section class="p-5" id="about">
         <div class="container py-5">
             <div class="row justify-content-between align-items-center">
@@ -284,6 +285,26 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque consequuntur voluptates magni.</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellat ex quas sed.</p>
                     <a href="#" class="btn btn-primary mt-3"> <i class="bi bi-chevron-compact-right"></i> Read more</a>
+                </div>
+            </div>
+        </div>
+      </section>
+
+
+      <section class="bg-dark text-light p-5" id="learn">
+        <div class="container py-5">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-md p-5">
+                    <h2>DDDDD</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque consequuntur voluptates magni.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellat ex quas sed.</p>
+                    <a href="#" class="btn btn-light mt-3"> <i class="bi bi-chevron-compact-right"></i>Read more</a>
+                </div>
+                <div class="col-md">
+                    <a href="#">
+                        <a href="#"></a>
+                        <a href="#"><img src="{{ asset('assets/01.png') }}" class="img-fluid" ></a>
+                    </a>
                 </div>
             </div>
         </div>
@@ -412,7 +433,7 @@
             </div>
         </div>
     </section>
-    
+
 
 
      <footer class="page-footer p-5 text-md-left">
