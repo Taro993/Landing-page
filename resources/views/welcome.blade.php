@@ -14,7 +14,7 @@
 
 
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark py-3">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-alexa" viewBox="0 0 16 16">
@@ -86,7 +86,7 @@
 
 
 
-      <section class="bg-primary text-light p-5">
+      <section class="bg-primary text-light p-5 ">
         <div class="container py-5">
             <div class="d-md-flex justify-content-between align-items-center">
                 <h3 class="mb-3 mb-md-0">
